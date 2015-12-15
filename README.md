@@ -40,4 +40,4 @@ more demos in sample folder.
 
 ## auther
 
-ruoyu@jirengu.com
+hunger@jirengu.com
