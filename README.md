@@ -2,17 +2,19 @@
 
 easyTpl, a simple JavaScript template.
 
-## install
+## Install
 
 1. Node environment
-    
-    npm install -g easytpl
 
+```bash    
+npm install easytpl
+```
 2. Client environment
-    
+
+```bash
     bower install easytpl
-    
-## useage
+```
+## Useage
 
 ```javascript
 
@@ -30,14 +32,14 @@ easyTpl, a simple JavaScript template.
     var str = easyTpl(tpl, data);
     console.log(str);
 ```
-more demos in sample folder.
+more demos in **sample** folder.
 
-## test
+## Test
 
 ```bash
     make test
 ```
 
-## auther
+## Auther
 
 ruoyu@jirengu.com
